@@ -27,16 +27,16 @@ The BearTracks Infrastructure project is designed to deploy and manage the backe
    git clone https://github.com/your-repo/beartracks-infra.git
    cd beartracks-infra
    ```
-2 **Install dependencies**
+2. **Install dependencies**
    ```bash
    yarn
    ```
-3 **Bootstrap the CDK environment:**
+3. **Bootstrap the CDK environment:**
    ```bash
    yarn cdk bootstrap
    ```
 
-3 **Deploy the stacks:**
+4. **Deploy the stacks:**
    ```bash
    # List the stacks
    cdk ls
